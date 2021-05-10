@@ -6,3 +6,15 @@ Keyfans is a e-commerce website, offering many parts, DIY and repair services fo
 The website was written in HTML5, CSS and JavaScript
 
 ****************************************************
+Contributing
+
+Issue Tracker:
+
+****************************************************
+License
+
+****************************************************
+Contact
+
+khangduy2712@gmail.com
+****************************************************
