@@ -1,0 +1,116 @@
+header {
+    background-color: #36454F;
+    display: flex;
+    justify-content: flex-end;
+    border-bottom: 2px solid #FFBF00;
+}
+
+body {
+    background-color: black;
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+.logo {
+    background-color: #FFBF00;
+    color: black;
+    font-size: 50px;
+    width: 200px;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: black;
+    border-bottom: 2px solid #FFBF00;
+
+}
+.topnav a {
+    float: left;
+    color:#FFBF00;
+    text-align: center;
+    padding: 14px 90px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+  
+.dropdown .dropbtn1 {
+    font-size: 20px;
+    border: none;
+    outline: none;
+    color: #FFBF00;
+    padding: 10px 100px 20px 100px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.dropdown .dropbtn2 {
+    font-size: 20px;
+    border: none;
+    outline: none;
+    color: #FFBF00;
+    padding: 10px 100px 20px 100px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.dropdown .dropbtn3 {
+    font-size: 20px;
+    border: none;
+    outline: none;
+    color: #FFBF00;
+    padding: 10px 100px 20px 100px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn1 {
+    background-color: #FFBF00;
+    color:black;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn2 {
+    background-color: #FFBF00;
+    color:black;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn3 {
+    background-color: #FFBF00;
+    color:black;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #FFBF00;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+  
+.dropdown-content a:hover {
+    background-color: black;
+    color: #FFBF00;
+  }
+  
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+h1 {
+    color: #FFBF00;
+}
