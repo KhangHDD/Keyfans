@@ -8,7 +8,7 @@ The website was written in HTML5, CSS and JavaScript
 ****************************************************
 Contributing
 
-Issue Tracker:
+Issue Tracker: https://github.com/KhangHDD/Keyfans.git
 
 ****************************************************
 License
